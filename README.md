@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Matias Lopez Perlo
+# 👋 ¡Hola! 
 
 ## ¿Quién soy?
 Soy un Data Analyst en formación avanzada, apasionado por el análisis de datos y la tecnología. He dedicado más de 700 horas a capacitación intensiva en análisis de datos a través de un bootcamp en SoyHenry, donde he adquirido y aplicado habilidades sólidas en SQL, Python, Power BI y Google Sheets. Mi enfoque está en resolver problemas complejos y generar insights valiosos que contribuyan al éxito de las organizaciones.
