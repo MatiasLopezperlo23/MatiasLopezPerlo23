@@ -19,4 +19,4 @@ Mi objetivo es avanzar en mi carrera como Data Analyst, utilizando mis habilidad
 ## Contacto:
 - **LinkedIn:** (https://www.linkedin.com/in/mat%C3%ADaslopezperlo/)
 - **Correo Electrónico:** matiaslopezperlo2023@gmail.com
-- - **Telefono:** +543834080181
+- **Telefono:** +543834080181
