@@ -1,7 +1,7 @@
 # 👋 ¡Hola! 
 
 ## ¿Quién soy?
-Soy un Data Analyst en formación avanzada, apasionado por el análisis de datos y la tecnología. He dedicado más de 700 horas a capacitación intensiva en análisis de datos a través de un bootcamp en SoyHenry, donde he adquirido y aplicado habilidades sólidas en SQL, Python, Power BI y Google Sheets. Mi enfoque está en resolver problemas complejos y generar insights valiosos que contribuyan al éxito de las organizaciones.
+Soy un Data Analyst con formación avanzada, apasionado por el análisis de datos y la tecnología. He dedicado más de 700 horas a capacitación intensiva en análisis de datos a través de un bootcamp en SoyHenry, donde he adquirido y aplicado habilidades sólidas en SQL, Python, Power BI y Google Sheets. Mi enfoque está en resolver problemas complejos y generar insights valiosos que contribuyan al éxito de las organizaciones.
 
 ## ¿Qué hago?
 Actualmente, estoy desarrollando proyectos de análisis de datos que me permiten aplicar y profundizar mis conocimientos en herramientas clave como Python, SQL Server y Power BI. Trabajo en colaboración con otros profesionales, lo que me ha permitido adaptarme rápidamente a diferentes entornos y desafíos. Mis proyectos abarcan desde la limpieza y transformación de datos hasta la creación de visualizaciones que facilitan la toma de decisiones.
